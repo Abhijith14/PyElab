@@ -1,0 +1,50 @@
+
+ 
+
+ 
+
+for(inti=0;icnum++)
+
+(
+
+for(int j-0je
+(
+
+jefe)
+
+ 
+
+coutc<char
+
+ 
+
+coutecendl
+
+retum 0;
+
+ 
+
+ 
+
+ 
+
+ 
+
+{Program #2
+include <iostream>
+using namespace sc
+int main)
+
+(
+
+ 
+
+int rum,
+INPUT
+
+ 
+
+ 
+
+‘Source Code
+
